@@ -1,3 +1,16 @@
+# Projeto USCS Open
+
+## Aluno: Yan Macedo
+
+Branch: `pim-marketing-yan-macedo`
+
+Este projeto foi modificado como parte da atividade de versionamento com Git e GitHub.
+
+### Aprendizado:
+- Clonar e modificar repositórios
+- Criar branches com nomes específicos
+- Editar arquivos e realizar commits
+- Usar o GitHub para controle de versão
 
 Java vs C#: A Batalha Épica dos Titãs da Programação
 No canto verde, com seus dreadlocks de código e aura de sabedoria ancestral, está o poderoso Java!
@@ -37,3 +50,4 @@ E não se esqueça:
 No final das contas, a única rivalidade que realmente importa é a sua busca incessante por conhecimento e aperfeiçoamento. Continue aprendendo, evoluindo e se tornando um programador cada vez mais completo.
 
 O futuro da programação está em suas mãos!
+Editado README.md com informações do aluno
